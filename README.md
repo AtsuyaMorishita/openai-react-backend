@@ -2,6 +2,8 @@
 
 lambda で OpenAI の API を叩く処理
 
+[フロントエンド側のリポジトリ](https://github.com/AtsuyaMorishita/openai-react-frontend)
+
 ====================================================
 
 # Welcome to your CDK TypeScript project
